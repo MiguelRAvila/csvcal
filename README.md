@@ -1,3 +1,14 @@
+# Ada 3
+> Facultad de Matemáticas
+
+> Licenciatura en Ingeniería de Software
+
+> Diseño de Software
+
+### Integrantes:
+- Miguel Rodrigo Ávila Cabrera
+- Mario Jesus Chan Zurita
+
 <h3>Pasos para compilar y ejecutar el programa</h3>
 
 1. Dentro la carpeta del proyecto, en el archivo de entrada.csv colocar los respectivos datos de los alumnos.
