@@ -1,0 +1,6 @@
+Pasos para compilar y ejecutar el programa:
+
+1. Crear y configurar el archivo csv que el programa obtiene como entrada.
+2. Ejecutar el programa
+3. Escribir en la consola la calificacion de cada alumno conforme lo vaya solicitando el programa
+4. El programa creará el archivo csv de salida con las calificaciones.
